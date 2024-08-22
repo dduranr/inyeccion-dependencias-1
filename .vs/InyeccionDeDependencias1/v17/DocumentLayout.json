@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|c:\\users\\usuario\\source\\repos\\inyecciondedependencias1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|c:\\users\\usuario\\source\\repos\\inyecciondedependencias1\\communicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|solutionrelative:communicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|c:\\users\\usuario\\source\\repos\\inyecciondedependencias1\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|c:\\users\\usuario\\source\\repos\\inyecciondedependencias1\\isender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0EC20E-87C1-44E6-ACDA-EC4B057B2860}|InyeccionDeDependencias1.csproj|solutionrelative:isender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\EmailService.cs",
+              "RelativeToolTip": "EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:11:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:55:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommunicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\CommunicationService.cs",
+              "RelativeDocumentMoniker": "CommunicationService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\CommunicationService.cs",
+              "RelativeToolTip": "CommunicationService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:03:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISender.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\ISender.cs",
+              "RelativeDocumentMoniker": "ISender.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\InyeccionDeDependencias1\\ISender.cs",
+              "RelativeToolTip": "ISender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:50:51.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
